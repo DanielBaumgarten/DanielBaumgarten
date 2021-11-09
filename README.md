@@ -3,8 +3,8 @@
 
  <h2>Sou Daniel Baumgarten!! </h2> 
  
- - 😎 Tenho 34 anos.
- - 💻 Futuro desenvolvedor Front-End.
+ - 😎 Tenho 35 anos.
+ - 💻 Full Stack em formação pela Cubos Academy!
  
  
 
