@@ -4,7 +4,7 @@
  <h2>Sou Daniel Baumgarten!! </h2> 
  
  - 😎 Tenho 35 anos.
- - 💻 Full Stack em formação pela Cubos Academy!
+ - 💻 Full Stack !
  
  
 
